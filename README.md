@@ -1,3 +1,8 @@
+Pasos para crear un Build personalizado https://ckeditor.com/docs/ckeditor5/latest/builds/guides/development/custom-builds.html
+Después de instalar algún paquete, ejecutar `npm run-script build` y copiar la carpeta build resultante al proyecto deseado.
+
+
+
 CKEditor 5 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20CKEditor%205%20on%20GitHub&url=https%3A%2F%2Fgithub.com%2Fckeditor%2Fckeditor5)
 ===================================
 
